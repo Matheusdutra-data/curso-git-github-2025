@@ -1,0 +1,5 @@
+ls - lista todos arquivos do diretório
+
+cd - muda a sua pasta (exemplo cd desktop/)
+
+pwd - mostra aonde você está
